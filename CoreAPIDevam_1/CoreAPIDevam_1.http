@@ -1,0 +1,6 @@
+@CoreAPIDevam_1_HostAddress = http://localhost:5283
+
+GET {{CoreAPIDevam_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
